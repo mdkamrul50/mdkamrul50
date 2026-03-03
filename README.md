@@ -1,78 +1,56 @@
-## Hi there 👋
+# Hi there 👋, I'm Md.Kamrul 
 
-Here are some ideas to get you started:
+## 💻 About Me
+I'm a **Full Stack Developer (MERN & Next.js)** passionate about building **high-performance, scalable, and responsive web applications**. I focus on writing **clean, maintainable code** and following **best practices**.  
 
-- 🔭 I’m currently working on ... Fontend web development project
-- 🌱 I’m currently learning ... Fontend web devlopment
-- 👯 I’m looking to collaborate on ... Fontend web development project
-- 🤔 I’m looking for help with ...Web development
-- 💬 Ask me about ...fontend web devlopment
-- 📫 How to reach me: Search on Linked In "mdkamrul50"
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I Love Coding
-
-<h1 align="center">👋 Hi, I'm Kamrul </h1>
-<h3 align="center">Frontend Web Developer | Clean UI • Responsive Design • JavaScript, react.js  , next.js Learner</h3>
-
-<p align="center">
-  I build clean, responsive, and user-friendly web interfaces  
-  with a strong focus on structure, performance, and UI quality.
-</p>
-
-
-## 🚀 About Me
-- 🎓 Diploma in Engineering (Computer Technology)
-- 🌱 Currently learning **HTML, CSS, JavaScript, react.js, next.js**
-- 💻 Passionate about **Frontend Web Development**
-- 🧠 I enjoy solving problems and turning ideas into real UI
-- 🎯 Goal: Become a professional Frontend Developer
+- 💡 Skilled in **React.js, Next.js, Node.js, Express.js, MongoDB, REST APIs, JWT Authentication**  
+- 🌱 Currently learning **advanced Next.js features and modern web architecture**  
+- 🎯 Interested in **problem solving, web performance optimization, and building real-world projects**  
 
 ---
 
-## 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-</p>
-
-- **Frontend:** HTML5, CSS3, JavaScript, react.js, next.js 
-- **Layout:** Flexbox, Grid, Responsive Design  
-- **Tools:** Git, GitHub, VS Code, DevTools  
-
----
-
-## 📌 What I’m Working On
-- ✔ Responsive website layouts  
-- ✔ JavaScript practice projects  
-- ✔ Clean and structured code  
-- 🔜 Learning advanced JavaScript & React  
+## 🛠 Tech Stack & Skills
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
-> Small but growing — focused on learning & improvement
+## 🚀 Projects
+Here are a few projects I’ve worked on:
 
-- 🔹 Responsive Web Pages  
-- 🔹 JavaScript Mini Projects  
-- 🔹 UI Practice Designs  
+1. **E-commerce Web App**  
+   - Built with **MERN & Next.js**  
+   - Features: JWT Authentication, Payment Integration, Admin Dashboard  
+   - [Live Demo](#) | [GitHub Repo](#)
 
-👉 Check my repositories to explore my work.
+2. **Portfolio Website**  
+   - Built with **Next.js & React**  
+   - Fully responsive, SEO optimized, modern design  
+   - [Live Demo](#) | [GitHub Repo](#)
 
----
+3. **Job Board Application**  
+   - Built with **MERN Stack**  
+   - Features: Search & Filter jobs, CRUD operations, JWT Auth  
+   - [Live Demo](#) | [GitHub Repo](#)
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-## 🤝 Let’s Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/md-kamrul-20a5a2271/
-- 📧 Email: kamrul.dev.web@gmail.com
+*(You can replace # with your actual live/demo GitHub links)*
 
 ---
 
-<p align="center">
-  ⭐ Always learning, always improving — one project at a time.
-</p>
+## 📈 GitHub Stats
+![Md Kamrul Baki's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: [linkedin.com/in/yourprofile](#)  
+- Email: your.email@example.com  
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
