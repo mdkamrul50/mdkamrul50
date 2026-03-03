@@ -10,13 +10,16 @@ I focus on **clean code, best practices**, and building real-world solutions.
 
 ---
 
-## 🛠 My Skills
-### **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🛠 Skills
+
+![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-85%25-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-85%25-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-80%25-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-80%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-95%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-90%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
