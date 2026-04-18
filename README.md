@@ -1,60 +1,102 @@
-# Hello 👋, I'm MD. Kamrul
-### MEARN Stack Developer
+<!-- 🔥 HEADER ANIMATION --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=200&section=header&text=Welcome%20To%20My%20Dev%20World&fontSize=35&fontColor=ffffff&animation=fadeIn" /> </p> <h1 align="center">Hi 👋, I'm Kamrul Hasan</h1> <h3 align="center">🚀 MERN Stack Developer | Real-Time Web App Builder</h3> <!-- 🔥 TYPING EFFECT --> <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="45%" hight="120%" />
+</p> --- 
 
-I specialize in building modern, responsive, and user-friendly web applications using MongoDB, Express.js, React.js, and Node.js.
-
-🌱 Currently improving my skills in Next.js and advanced React concepts
-🛠️ I enjoy building real-world projects and learning new technologies
-💡 Focused on writing clean, efficient, and scalable code
-🚀 Always motivated to grow as a full-stack developer and solve real-world problems
-
-I am actively looking to improve my skills and work on impactful projects that help me grow in the software development field.
-
-## Contact Me
-<p><a href="www.linkedin.com/in/mdkamrul50/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
-
-## Skills
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>&nbsp;
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=90&section=header&text=About%20Me&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-## Projects
+<div align="center">
 
-### game-vault
+💻 **MERN Stack Developer** *(MongoDB • Express • React • Node.js)*
 
-<img src="https://i.ibb.co.com/whhBpBX4/Screenshot-2026-04-11-173158.png" alt="game-vault" width="300"/>
+🔥 Specialized in building **real-time applications**
+*(chat systems • video call • tracking dashboards)*
 
-Game Vault Library is a responsive web application designed to showcase a curated collection of indie and experimental games. It allows users to browse through various game titles along with their genres, categories, and visual previews in a clean, modern, and user-friendly interface. The platform delivers a smooth and intuitive browsing experience, making it easy to discover unique and creative games in one centralized place
+🎯 Focused on **clean UI, performance & scalability**
 
-[View Project](https://game-vault-library.netlify.app/)
+⚡ Passionate about building **production-ready web apps**
+
+</div>
 
 ---
 
-## GitHub Stats
+## 🎨 Developer Style
 
-<img src="https://github-readme-stats.vercel.app/api?username=mdkamrul50&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdkamrul50&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdkamrul50&theme=null" alt="GitHub Streak" />
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=mdkamrul50" alt="trophy" />
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdkamrul50&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
+</p>
 
 
+## ✨ What I Do
 
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Real--Time%20Apps-00F7FF?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Clean%20UI-6A00FF?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scalable%20Backend-00C853?style=for-the-badge&logo=node.js&logoColor=white"/>
+  
+  
+
+  <img src="https://img.shields.io/badge/MERN%20Stack-0F2027?style=for-the-badge&logo=mongodb&logoColor=green"/>
+  <img src="https://img.shields.io/badge/REST%20API-203A43?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Authentication-2C5364?style=for-the-badge&logo=auth0&logoColor=white"/>
+
+  
+
+  <img src="https://img.shields.io/badge/Performance%20Focused-FF6B6B?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responsive%20Design-1E90FF?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deployment-6A00FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</p>
+
+---
+
+## ⚡ Developer Mindset
+
+```mermaid
+flowchart TD
+A[💡 Idea] --> B[🎨 UI Design]
+B --> C[⚛️ Frontend React / Next.js]
+C --> D[🔧 Backend Node / Express]
+D --> E[🗄️ MongoDB Database]
+E --> F[🚀 Deployment Vercel / Cloud]
+```
+
+
+---
+
+## ⚙️ Developer Workflow
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="520"/>
+</p>
+```
+
+---
+
+## 🌐 How My Applications Work
+
+<p align="center">
+  <img src="https://i.ibb.co/0jQJk5y/web-flow.gif" width="480"/>
+</p>
+
+```bash
+👤 User Interaction (Click / Input)
+        ↓
+⚛️ Frontend (React UI)
+        ↓
+📡 API Communication (Fetch / Axios)
+        ↓
+🖥️ Backend Server (Node.js / Express)
+        ↓
+🗄️ Database (MongoDB)
+        ↓
+📤 Server Response (JSON Data)
+        ↓
+✨ Dynamic UI Update (Real-Time Experience)
+```
+
+        ↓
+✨ UI Updates (Real-Time Feel)
+--- ## 🚀 Tech Stack <p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" /> <br/> <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,nextjs,git,github" /> </p> --- ## 🛠️ Tools & Technologies <p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/> </p> --- ## 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=10" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&border_radius=10" /> </p> --- ## 🔥 Featured Project <p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/> </p> ### 📱 Close Friends App * 📞 Call / Video / Text tracking system * 📊 Real-time contact stats * ⚡ Built with MERN Stack --- ## 🧠 Currently Learning * ⚛️ Advanced React Patterns * 🌐 Next.js Fullstack * 🔐 Authentication & Security * ⚡ Performance Optimization --- ## 🌐 Connect With Me <p align="center"> <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/></a> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a> <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/></a> </p> --- ## 👀 Profile Views <p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square"/> </p> --- <h3 align="center">✨ "Code. Create. Innovate." ✨</h3> <!-- 🔥 FOOTER ANIMATION --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F7FF&height=120&section=footer"/> </p>
