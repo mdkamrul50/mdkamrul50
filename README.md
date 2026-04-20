@@ -80,10 +80,35 @@ E --> F[🚀 Deployment Vercel / Cloud]
 
         ↓
 ✨ UI Updates (Real-Time Feel)
---- ## 🚀 Tech Stack <p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" /> <br/> <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,nextjs,git,github" /> </p> --- ## 🛠️ Tools & Technologies <p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/> </p>
 
- ---
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,nextjs,git,github" />
+</p>
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?mdkamrul50=mdkamrul50&show_icons=true&theme=tokyonight&border_radius=10" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&border_radius=10" /> </p> --- ## 🔥 Featured Project <p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/> </p> ### 📱 Close Friends App * 📞 Call / Video / Text tracking system * 📊 Real-time contact stats * ⚡ Built with MERN Stack --- ## 🧠 Currently Learning * ⚛️ Advanced React Patterns * 🌐 Next.js Fullstack * 🔐 Authentication & Security * ⚡ Performance Optimization --- ## 🌐 Connect With Me <p align="center"> <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/></a> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a> <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/></a> </p> --- ## 👀 Profile Views <p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square"/> </p> --- <h3 align="center">✨ "Code. Create. Innovate." ✨</h3> <!-- 🔥 FOOTER ANIMATION --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F7FF&height=120&section=footer"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdkamrul50&show_icons=true&theme=tokyonight&border_radius=10" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdkamrul50&theme=tokyonight&border_radius=10" />
+</p>
