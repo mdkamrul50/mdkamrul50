@@ -1,4 +1,4 @@
-<!-- 🔥 HEADER ANIMATION --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=200&section=header&text=Welcome%20To%20My%20Dev%20World&fontSize=35&fontColor=ffffff&animation=fadeIn" /> </p> <h1 align="center">Hi 👋, I'm Kamrul Hasan</h1> <h3 align="center">🚀 MERN Stack Developer | Real-Time Web App Builder</h3> <!-- 🔥 TYPING EFFECT --> <p align="center">
+<!-- 🔥 HEADER ANIMATION --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=200&section=header&text=Welcome%20To%20My%20Dev%20World&fontSize=35&fontColor=ffffff&animation=fadeIn" /> </p> <h1 align="center">Hi 👋, I'm MD. KAMRUL</h1> <h3 align="center">🚀 MERN Stack Developer | Real-Time Web App Builder</h3> <!-- 🔥 TYPING EFFECT --> <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" />
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="45%" hight="120%" />
 </p> --- 
@@ -20,7 +20,7 @@
 
 </div>
 
----
+
 
 ## 🎨 Developer Style
 
@@ -75,26 +75,7 @@ E --> F[🚀 Deployment Vercel / Cloud]
 
 ---
 
-## 🌐 How My Applications Work
 
-<p align="center">
-  <img src="https://i.ibb.co/0jQJk5y/web-flow.gif" width="480"/>
-</p>
-
-```bash
-👤 User Interaction (Click / Input)
-        ↓
-⚛️ Frontend (React UI)
-        ↓
-📡 API Communication (Fetch / Axios)
-        ↓
-🖥️ Backend Server (Node.js / Express)
-        ↓
-🗄️ Database (MongoDB)
-        ↓
-📤 Server Response (JSON Data)
-        ↓
-✨ Dynamic UI Update (Real-Time Experience)
 ```
 
         ↓
