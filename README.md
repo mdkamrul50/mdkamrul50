@@ -20,6 +20,13 @@
 
 </div>
 
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,nextjs,git,github" />
+</p>
 
 
 ## 🎨 Developer Style
@@ -67,41 +74,22 @@ E --> F[🚀 Deployment Vercel / Cloud]
 
 ---
 
+
+
+---
+
 ## ⚙️ Developer Workflow
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="520"/>
-</p>
-```
+
+💡 Idea → 📝 Plan → 🎨 Design → 💻 Code → 🧪 Test → 🚀 Deploy → 🔄 Maintain
+
+
+
+
 
 ---
 
 
-```
 
-        ↓
-✨ UI Updates (Real-Time Feel)
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,nextjs,git,github" />
-</p>
-
----
-
-## 🛠️ Tools & Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
-</p>
 
 ---
 
