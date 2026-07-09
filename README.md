@@ -1,7 +1,7 @@
 <!-- 🔥 HEADER ANIMATION --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=200&section=header&text=Welcome%20To%20My%20Dev%20World&fontSize=35&fontColor=ffffff&animation=fadeIn" /> </p> <h1 align="center">Hi 👋, I'm MD. KAMRUL</h1> <h3 align="center">🚀 MERN Stack Developer | Real-Time Web App Builder</h3> <!-- 🔥 TYPING EFFECT --> <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" />
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="45%" hight="120%" />
-</p> --- 
+</p> 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=90&section=header&text=About%20Me&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
