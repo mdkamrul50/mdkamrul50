@@ -22,23 +22,27 @@
 
 ## 🚀 Tech Stack
 
-### 🎨 Frontend
-<p>
+<h3 align="center">🎨 Frontend</h3>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
-### ⚙️ Backend
-<p>
+<h3 align="center">⚙️ Backend</h3>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Database
-<p>
+<h3 align="center">🗄️ Database</h3>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-### 🛠️ Tools & Version Control
-<p>
+<h3 align="center">🛠️ Tools & Version Control</h3>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
 </p>
 
