@@ -72,21 +72,18 @@
 
 
 
-## 🚀 From Idea to Production
+## ⚡ Development Workflow
 
 ```mermaid
-graph LR
-    A(💡 Idea)
-    B(📝 Planning)
-    C(🎨 UI Design)
-    D(⚛️ React / Next.js)
-    E(⚙️ Node.js / Express)
-    F(🗄️ MongoDB)
-    G(🔒 Authentication)
-    H(🚀 Deploy)
-    I(🌍 Live Website)
-
-
+flowchart LR
+    A["💡 Idea & Planning"] --> B["🎨 UI / UX Design"]
+    B --> C["⚛️ Frontend<br/>HTML • CSS • JS • React • Next.js"]
+    C --> D["⚙️ Backend<br/>Node.js • Express.js"]
+    D --> E["🗄️ Database<br/>MongoDB"]
+    E --> F["🔐 Authentication"]
+    F --> G["🧪 Testing & Debugging"]
+    G --> H["🚀 Deployment<br/>Vercel"]
+```
 
 
 
