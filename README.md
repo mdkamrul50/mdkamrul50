@@ -87,29 +87,7 @@ flowchart LR
 
 
 
----
 
-## ⚙️ Development Workflow
-
-<div align="center">
-
-🧠 **Research** &nbsp; ➜ &nbsp;
-📋 **Planning** &nbsp; ➜ &nbsp;
-🖌️ **UI/UX** &nbsp; ➜ &nbsp;
-⚛️ **Frontend** &nbsp; ➜ &nbsp;
-⚙️ **Backend** &nbsp; ➜ &nbsp;
-🗄️ **Database** &nbsp; ➜ &nbsp;
-🔐 **Authentication** &nbsp; ➜ &nbsp;
-🧪 **Testing** &nbsp; ➜ &nbsp;
-🚀 **Deployment** &nbsp; ➜ &nbsp;
-📈 **Optimization**
-
-</div>
-
-
-
-
----
 
 ## 📊 GitHub Stats
 
