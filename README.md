@@ -70,7 +70,7 @@
 
 </p>
 
----
+
 
 ## 🚀 From Idea to Production
 
@@ -86,8 +86,7 @@ graph LR
     H(🚀 Deploy)
     I(🌍 Live Website)
 
-    A --> B --> C --> D --> E --> F --> G --> H --> I
-```
+
 
 
 
