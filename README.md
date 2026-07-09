@@ -47,12 +47,6 @@
 </p>
 
 
-## 🎨 Developer Style
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
-</p>
-
 
 ## ✨ What I Do
 
@@ -78,19 +72,22 @@
 
 ---
 
-## ⚡ Developer Mindset
+## 🚀 From Idea to Production
 
 ```mermaid
-flowchart TD
-A[💡 Idea] --> B[🎨 UI Design]
-B --> C[⚛️ Frontend React / Next.js]
-C --> D[🔧 Backend Node / Express]
-D --> E[🗄️ MongoDB Database]
-E --> F[🚀 Deployment Vercel / Cloud]
+graph LR
+    A(💡 Idea)
+    B(📝 Planning)
+    C(🎨 UI Design)
+    D(⚛️ React / Next.js)
+    E(⚙️ Node.js / Express)
+    F(🗄️ MongoDB)
+    G(🔒 Authentication)
+    H(🚀 Deploy)
+    I(🌍 Live Website)
+
+    A --> B --> C --> D --> E --> F --> G --> H --> I
 ```
-
-
----
 
 
 
