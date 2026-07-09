@@ -22,10 +22,24 @@
 
 ## 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,nextjs,git,github" />
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### 🛠️ Tools & Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
 </p>
 
 
